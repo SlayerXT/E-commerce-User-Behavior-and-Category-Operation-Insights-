@@ -1,4 +1,6 @@
 🛍️ E-commerce User Behavior and Category Operation Insights
+
+
 📊 Overview
 
 This project analyzes e-commerce user behavior and category performance data collected between November 25 and December 3, a period that includes two weekends and the lead-up to the “Double 12” shopping festival.
