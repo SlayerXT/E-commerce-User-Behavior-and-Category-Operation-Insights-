@@ -37,4 +37,5 @@ Data Processing: Jupyter Notebook, SQL
 
 For detailed analysis, visualizations, and business insights, please refer to the complete report:
 https://github.com/SlayerXT/E-commerce-User-Behavior-and-Category-Operation-Insights-/blob/main/e-com-user.ipynb
+
 For complete SQL code:https://github.com/SlayerXT/E-commerce-User-Behavior-and-Category-Operation-Insights-/blob/main/program_1.sql
