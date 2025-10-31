@@ -26,8 +26,11 @@ Category Feature — Map categories by traffic (PV) and sales (BUY) into four st
 🛠️ Tech Stack
 
 Language: Python 3, mySQL
+
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+
 Visualization: Tableau Public / matplotlib
+
 Data Processing: Jupyter Notebook, SQL
 
 📄 Full Report
